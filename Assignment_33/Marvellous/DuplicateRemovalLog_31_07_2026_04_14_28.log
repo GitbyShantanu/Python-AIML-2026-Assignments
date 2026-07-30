@@ -1,0 +1,20 @@
+Scan started at: Fri Jul 31 04:14:28 2026
+Scan completed at: Fri Jul 31 04:14:28 2026
+----------------------------------------------------------------------
+Scanning and Deletion Report
+----------------------------------------------------------------------
+Directory Scanned: C:\Users\lenovo\Desktop\Python 2026\Python Programming Assignments\Assignment_33\Test3
+Total Files Scanned: 11
+Total Duplicate files Found: 3
+Total duplicate Files Deleted: 3
+Complete paths of all deleted files:
+  - C:\Users\lenovo\Desktop\Python 2026\Python Programming Assignments\Assignment_33\Test3\Hello_copy.txt
+  - C:\Users\lenovo\Desktop\Python 2026\Python Programming Assignments\Assignment_33\Test3\SubFolder\Assignment28_1_copy.py
+  - C:\Users\lenovo\Desktop\Python 2026\Python Programming Assignments\Assignment_33\Test3\SubFolder\Assignment28_2_copy.py
+CheckSum values of duplicate files:
+  - dacbad0847997fa29b002384ab135853
+  - b66e30314bf5c8ebda206a4ba4befe8c
+  - eba38d4c6bf1e8beea1d4e23bf248f5d
+Time Taken: 0.0235 seconds
+----------------------------------------------------------------------
+Email report sent successfully to deshshantanu05@gmail.com
