@@ -4,6 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 *.env
+*.vscode/
+*.json
 
 # Ignore log files and directories
 *.log
